@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/abathur/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/home/abathur/MyApplication/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-2097985cf16426de716687e61d790fa6c191d1ab.jar" />
+    </item>
+    <item
+        jar="/home/abathur/MyApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/home/abathur/MyApplication/app/build/intermediates/pre-dexed/debug/classes-3a3aba04adb4e754f1cd5c05fc35cc47d752eb1d.jar" />
+    </item>
+    <item
+        jar="/home/abathur/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/home/abathur/MyApplication/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-93a4a514763b620caca9ecd98a902dea9a4440ea.jar" />
+    </item>
+    <item
+        jar="/home/abathur/MyApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/home/abathur/MyApplication/app/build/intermediates/pre-dexed/debug/classes-f42ba8af3ae125bb2c4cc60d611836b7a24c1472.jar" />
+    </item>
+
+</items>
